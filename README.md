@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MidwestTechnologies.
 - 👀 I’m interested in Amateur Radio, IoT, sensors, and SDR.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything that GitHub users might throw my way.
+- 💞️ I’m looking to collaborate on anything that GitHub users might throw my way.  Feel free to contact me!
 - 📫 How to reach me: midwest_technologies@outlook.com
 
 <!---
